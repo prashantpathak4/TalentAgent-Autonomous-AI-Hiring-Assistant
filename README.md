@@ -181,7 +181,7 @@ IntelliHire/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anubhav-tiwari02/AI-Recruitment-Agent.git
+git clone https://github.com/prashantpathak4/AI-Recruitment-Agent.git
 cd AI-Recruitment-Agent
 ```
 
@@ -342,9 +342,9 @@ The goal of IntelliHire is to demonstrate how **LLMs and multi-agent systems can
 
 ## 👨‍💻 Author
 
-**Anubhav Tiwari**
+**Prashant Pathak**
 
-GitHub: [anubhav-tiwari02](https://github.com/anubhav-tiwari02)
+GitHub: [prashantpathak4](https://github.com/prashantpathak4)
 
 ---
 
